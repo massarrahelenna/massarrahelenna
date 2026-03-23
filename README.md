@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Helena Massarra 👋</h1>
 
 <p align="center">
-  Software Engineering Student @ IDP · Brasília, Brazil 🇧🇷
+  Software Engineering Student @idp-edu · Brasília, Brazil 🇧🇷
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 ## 👩‍💻 About Me
 
 - 🎓 Studying **Software Engineering** at IDP
-- 🤖 Passionate about **Artificial Intelligence**, **Computer Vision** and **Cloud**
+- 🤖 Passionate about **Artificial Intelligence**, **Computer Vision**, **Cloud** and **Cybersecurity**
 - 🛰️ Currently exploring **AWS Bedrock**, **RAG Agents** and **deep learning**
 - 🌱 Always building something new
 
