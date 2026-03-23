@@ -75,4 +75,8 @@
   <a href="https://github.com/massarrahelenna">
     <img src="https://img.shields.io/badge/GitHub-massarrahelenna-181717?style=flat-square&logo=github"/>
   </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/massarrahelenna">
+    <img src="https://img.shields.io/badge/LinkedIn-massarrahelenna-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
