@@ -25,7 +25,6 @@
 | [netwatch-devops](https://github.com/massarrahelenna/netwatch-devops) | Real-time network monitoring platform with anomaly detection and SLA alerts | TypeScript · Python |
 | [apriori-vs-fpgrowth](https://github.com/massarrahelenna/apriori-vs-fpgrowth) | Performance benchmark between Apriori and FP-Growth on market basket data | Python · Mlxtend |
 | [aerial-image-processing](https://github.com/massarrahelenna/aerial-image-processing) | Experiments with Decision Trees applied to aerospace imagery | Python · HTML |
-| [capella-cluster-map](https://github.com/massarrahelenna/capella-cluster-map) | Geospatial K-Means clustering of Capella Space SAR satellite imagery | Python · Leaflet.js |
 
 ---
 
