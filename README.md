@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Helena Massarra 👋</h1>
+<h1 align="center">Hi, I'm Helenna Massarra 👋</h1>
 
 <p align="center">
   Software Engineering Student @idp-edu · Brasília, Brazil 🇧🇷
